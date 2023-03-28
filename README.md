@@ -3,6 +3,7 @@
 ## 2023/3/28 更新
 ### 更新点
 2023/3/8にFSLogix 2210修正プログラム1（Ver.2.9.8440.42104）が公開されました。
+
 仔細は近々に確認しますが、GPOは【Roam Identity】という設定項目が1個加わっていました。
 https://learn.microsoft.com/ja-jp/fslogix/whats-new
 
