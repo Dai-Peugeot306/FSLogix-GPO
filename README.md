@@ -1,5 +1,5 @@
 # FSLogix-GPO
-## 仔細はFSLogixリリースノート（ https://learn.microsoft.com/ja-jp/fslogix/overview-release-notes ）もご参照ください。
+## 仔細はFSLogixリリースノート（ https://learn.microsoft.com/ja-jp/fslogix/overview-release-notes ）もあわせてご参照ください。
 
 ## 2024/5/22 更新
 ### 更新点
