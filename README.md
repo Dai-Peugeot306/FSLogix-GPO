@@ -1,5 +1,13 @@
 # FSLogix-GPO
 ## 仔細はFSLogixリリースノート（ https://learn.microsoft.com/ja-jp/fslogix/overview-release-notes ）もあわせてご参照ください。
+##（英語版 【 https://learn.microsoft.com/en-us/fslogix/overview-release-notes 】もご参照のほど。日本語版の更新がされていない場合はこちらをチェック）
+
+## 2025/5/3 更新
+### 更新点
+1. 2025/4/8更新のFSLogix 25.04（3.25.401.15305）の内容を確認しました。
+2. 今回、FSLogix 25.02からのGPO設定項目に変更はありませんでした。（内容確認したところadml/admxとも同一内容）
+3. 主な変更はバグフィックス（セッション再接続時のコンテナデタッチやFRXShellのクリーンナップに失敗するなど）のみのようです。
+4. GPOテンプレートは25.02のものをそのまま使用できます。
 
 ## 2025/2/15 更新
 ### 更新点
