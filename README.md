@@ -2,6 +2,13 @@
 ## 仔細はFSLogixリリースノート（ https://learn.microsoft.com/ja-jp/fslogix/overview-release-notes ）もあわせてご参照ください。
 （英語版 【 https://learn.microsoft.com/en-us/fslogix/overview-release-notes 】もご参照のほど。日本語版の更新がされていない場合はこちらをチェック）
 
+## 2026/3/12 更新
+2026/2/10更新のFSLogix 26.01 CU1（3.26.126.19110）の内容を確認しました。
+### 更新点
+1. 今回はVer3系になってから初めてのプログラム修正リリースです。
+2. なので、GPOテンプレートの変更はありません。
+3. 修正点はCleanupInvalidSessionsの設定が有効時にVHD(x) コンテナーが作成またはマウントできなくなる問題を修正したとのこと。
+
 ## 2026/1/17 更新
 2026/1/13更新のFSLogix 26.01（3.26.102.18413）の内容を確認しました。
 ### 更新点
